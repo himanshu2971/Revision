@@ -1,0 +1,6 @@
+Extensions list:
+1. Live Server
+2. Prettier
+3. Auto Rename Tags
+4. Color Highlight
+5. Image Preview
